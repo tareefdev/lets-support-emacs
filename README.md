@@ -6,37 +6,36 @@ I'll try to update this list later to include more packages. If you want to add 
 
 - Emacs: [Join the FSF](https://my.fsf.org/associate/support_freedom?referrer=4052) to support Emacs and other GNU free software.
 
-- Org-mode: Buy Carsten Dominik's [book](http://www.network-theory.co.uk/org/manual/), support Bastien Guerry (current maintainer) via [Paypal](https://www.paypal.me/bzg) or [Librepay](https://liberapay.com/bzg/)
+- Org-mode: Buy Carsten Dominik's [book](http://www.network-theory.co.uk/org/manual/), support Bastien Guerry (current maintainer) via [Paypal](https://www.paypal.me/bzg) or [Liberapay](https://liberapay.com/bzg/)
 
 - [Helm](https://github.com/emacs-helm/helm):
-[paypal](https://www.paypal.me/thierryvolpiatto/20), [patreon](https://patreon.com/preview/30231724baf440fabe80d44d0ee77067)
+[Paypal](https://www.paypal.me/thierryvolpiatto/20), [Patreon](https://patreon.com/preview/30231724baf440fabe80d44d0ee77067)
 
 - [Magit](https://github.com/magit/magit):
-[paypal](https://www.paypal.me/JonasBernoulli/20), [patreon](https://www.patreon.com/tarsius), [liberpay](https://liberapay.com/magit)
+[Paypal](https://www.paypal.me/JonasBernoulli/20), [Patreon](https://www.patreon.com/tarsius), [Liberapay](https://liberapay.com/magit)
 
-- [Projectile](https://github.com/bbatsov/projectile/): [Patreon](https://www.patreon.com/bbatsov),[Librepay](https://liberapay.com/bbatsov/donate), [Salt](https://salt.bountysource.com/teams/projectile)
+- [Projectile](https://github.com/bbatsov/projectile/): [Patreon](https://www.patreon.com/bbatsov), [Liberapay](https://liberapay.com/bbatsov/donate), [Salt](https://salt.bountysource.com/teams/projectile)
 
 - [Smartparens](https://github.com/Fuco1/smartparens): [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A5PMGVKCQBT88), [Patreon](https://www.patreon.com/user?u=3282358&ty=h)
 
 - [Markdown-mode](https://github.com/jrblevin/markdown-mode): [book](https://leanpub.com/markdown-mode)
 
-- [Web-mode](https://github.com/fxbois/web-mode/): [Paypal](https://www.paypal.me/fxbois), [Librepay](https://liberapay.com/fxbois/donate)
+- [Web-mode](https://github.com/fxbois/web-mode/): [Paypal](https://www.paypal.me/fxbois), [Liberapay](https://liberapay.com/fxbois/donate)
 
-- [Hydra](https://github.com/abo-abo/hydra), [Swiper](https://github.com/abo-abo/swiper), [Avy](https://github.com/abo-abo/avy) and other packages from Oleh Krehel: [Librepay](https://liberapay.com/abo-abo/)
+- [Hydra](https://github.com/abo-abo/hydra), [Swiper](https://github.com/abo-abo/swiper), [Avy](https://github.com/abo-abo/avy) and other packages from Oleh Krehel: [Liberapay](https://liberapay.com/abo-abo/)
 
-- [Aggressive-indent](https://github.com/Malabarba/aggressive-indent-mode/): [Gartipay](https://gratipay.com/Malabarba)
+- [Aggressive-indent](https://github.com/Malabarba/aggressive-indent-mode/): [Gratipay](https://gratipay.com/Malabarba)
 
-- [Paradox](https://github.com/Malabarba/paradox/): [Gartipay](https://gratipay.com/endless-parentheses)
+- [Paradox](https://github.com/Malabarba/paradox/): [Gratipay](https://gratipay.com/endless-parentheses)
 
-- [Cider](https://github.com/clojure-emacs/cider/): [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRQKNBM6P8VRQ), [Patreon](https://www.patreon.com/bbatsov), [Librepay](https://liberapay.com/bbatsov/donate), [Salt](https://salt.bountysource.com/teams/cider), [Opencollective](https://opencollective.com/cider)
+- [Cider](https://github.com/clojure-emacs/cider/): [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRQKNBM6P8VRQ), [Patreon](https://www.patreon.com/bbatsov), [Liberapay](https://liberapay.com/bbatsov/donate), [Salt](https://salt.bountysource.com/teams/cider), [Opencollective](https://opencollective.com/cider)
 
-- [Zenburn-theme](https://github.com/bbatsov/zenburn-emacs/): [Gartipay](https://gratipay.com/bbatsov)
+- [Zenburn-theme](https://github.com/bbatsov/zenburn-emacs/): [Gratipay](https://gratipay.com/bbatsov)
 
 - [Leuven-theme](https://github.com/fniessen/emacs-leuven-theme/): [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VCVAS6KPDQ4JC&lc=BE&item_number=emacs%2dleuven%2dtheme&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
-- [Less-css-mode](https://github.com/purcell/less-css-mode/): [Pateron](https://www.patreon.com/sanityinc)
+- [Less-css-mode](https://github.com/purcell/less-css-mode/): [Patreon](https://www.patreon.com/sanityinc)
 
-- [Color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow/): [Pateron](https://www.patreon.com/sanityinc)
+- [Color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow/): [Patreon](https://www.patreon.com/sanityinc)
 
 - [Smart-mode-line](https://github.com/Malabarba/smart-mode-line): [Gratipay](https://gratipay.com/Malabarba)
-
